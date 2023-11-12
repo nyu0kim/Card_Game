@@ -1,2 +1,3 @@
-# Card_Game
-자바 객체지향 프로그래밍 입문 책을 공부하면서 만든 카드게임
+## Hi💖
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="95" height="95" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="95" height="95" /></div>
