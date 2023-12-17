@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<b>S T U D Y ing</b>
+<b>S T U D Y ing~</b>
 
 👩🏻‍💻 <i>Web BackEnd</i> <br>
 🌏 <i>English & Chinese</i>
