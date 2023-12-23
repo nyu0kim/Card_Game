@@ -10,6 +10,6 @@
 <b>S T U D Y ing~</b>
 
 👩🏻‍💻 <i>Web BackEnd</i> <br>
-🌏 <i>English & Chinese</i>
+🌏 <i>English & Chinese :)</i>
 
 </div>
