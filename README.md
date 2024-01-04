@@ -10,6 +10,7 @@
 <b>S T U D Y ing~</b>
 
 👩🏻‍💻 <i>Web BackEnd</i> <br>
+Node.JS
 🌏 <i>English & Chinese</i>
 
 </div>
