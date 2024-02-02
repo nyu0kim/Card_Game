@@ -11,13 +11,16 @@
 <b>Web</b>
 <br>
 <img src="https://img.shields.io/badge/React-4682b4?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-832b29?style=for-the-badge&logo=NestJS&logoColor=black">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-008080?style=for-the-badge&logo=FastAPI&logoColor=white">
 
 <br>
 <br>
 
+<b>BlockChain</b>
+<br> 
+<img src="https://img.shields.io/badge/Solidity-171412?style=for-the-badge&logo=Solidity&logoColor=white">
 
 
 </div>
