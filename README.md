@@ -4,10 +4,9 @@
 <br>
 <h3><i><b>我是娜娜。很高兴见到你。 黄瑞恩傻瓜</b></i></h3>
 <br>
-<img src="https://img.shields.io/badge/Solidity-171412?style=for-the-badge&logo=Solidity&logoColor=white">
-<br>
-https://www.mycopia.com/forest-nameko
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyu0Kim&langs_count=10&layout=compact)]()
 
 
 <br>
