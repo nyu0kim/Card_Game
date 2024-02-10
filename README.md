@@ -1,8 +1,8 @@
 <div align="center">
-  
+  <img width="300"alt="img"src="https://github.com/Nyu0Kim/Nyu0Kim/assets/150310469/78f1072e-ce01-44a5-928b-c7f0bd7cde43" />
 <br>
 <br>
-<h3><i><b>我是娜娜。很高兴见到你。 黄瑞恩傻瓜</b></i></h3>
+<h3><i>HI I'M NANYOUNG KIM 👋</i></h3>
 <br>
 
 
